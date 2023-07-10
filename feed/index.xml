@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Make a website</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://treexl3.github.io/explore-wordpress/feed/" rel="self" type="application/rss+xml" />
+	<link>https://treexl3.github.io/explore-wordpress/</link>
 	<description>Learn how to make a website</description>
 	<lastBuildDate>Mon, 10 Jul 2023 10:31:02 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,9 +21,9 @@
 	<generator>https://wordpress.org/?v=6.2.2</generator>
 
 <image>
-	<url>/wp-content/uploads/2023/07/LogoMakr-62Eite-150x150.png</url>
+	<url>https://treexl3.github.io/explore-wordpress/wp-content/uploads/2023/07/LogoMakr-62Eite-150x150.png</url>
 	<title>Make a website</title>
-	<link>/</link>
+	<link>https://treexl3.github.io/explore-wordpress/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 

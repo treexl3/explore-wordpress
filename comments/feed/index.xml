@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for Make a website	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://treexl3.github.io/explore-wordpress/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://treexl3.github.io/explore-wordpress/</link>
 	<description>Learn how to make a website</description>
 	<lastBuildDate>Mon, 10 Jul 2023 10:31:02 +0000</lastBuildDate>
 	<sy:updatePeriod>
